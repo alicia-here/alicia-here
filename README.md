@@ -8,8 +8,8 @@
 
 # Project
 ## 1. 플랫폼 이탈 및 위험시기 분석 프로젝트
-[🔗repository 링크](https://github.com/alicia-here/platform-project.git)
 (작성중) 
+[🔗repository 링크](https://github.com/alicia-here/platform-project.git)
 
 ## 2. 프롭테크 프로모션 분석 프로젝트 
 (작성중)
