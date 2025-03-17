@@ -8,7 +8,7 @@
 
 # Project
 ### 1. 플랫폼 이탈 및 위험시기 분석 프로젝트
-<img src="https://github.com/user-attachments/assets/8a6ef6c9-0ff7-45a8-a59d-96fa5f327b40" width="300" height="120"/>
+<img src="https://github.com/user-attachments/assets/8a6ef6c9-0ff7-45a8-a59d-96fa5f327b40" width="300" height="150"/>
 
 (작성중) 
 [🔗repository 링크](https://github.com/alicia-here/platform-project.git)
@@ -20,7 +20,7 @@
 [🔗repository 링크](https://github.com/alicia-here/proptech-promtion-project.git)
 
 ### 3. 스트리밍 구독 서비스 이탈 분석 프로젝트 
-<img src="https://github.com/user-attachments/assets/f113ad60-247c-4002-a5a5-8902c5a51aaf" width="300" height="120"/>
+<img src="https://github.com/user-attachments/assets/f113ad60-247c-4002-a5a5-8902c5a51aaf" width="300" height="150"/>
 
 (작성중)
 [🔗repository 링크](https://github.com/alicia-here/streaming-subsciption-project.git)
