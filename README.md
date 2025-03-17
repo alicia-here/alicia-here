@@ -8,7 +8,7 @@
 
 # Project
 ### 1. 플랫폼 이탈 및 위험시기 분석 프로젝트
-<img src="https://github.com/user-attachments/assets/8a6ef6c9-0ff7-45a8-a59d-96fa5f327b40.png" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/8a6ef6c9-0ff7-45a8-a59d-96fa5f327b40" width="200" height="400"/>
 
 (작성중) 
 [🔗repository 링크](https://github.com/alicia-here/platform-project.git)
