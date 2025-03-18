@@ -17,7 +17,7 @@
 ### 3. 스트리밍 구독 서비스 이탈 분석 프로젝트[🔗](https://github.com/alicia-here/streaming-subsciption-project.git) 
 <img src="https://github.com/user-attachments/assets/f113ad60-247c-4002-a5a5-8902c5a51aaf" width="300" height="170"/>
 
-[### 4. 업무 자동화](https://github.com/alicia-here/ecommerce-automization.git)
+### [4. 업무 자동화🔗](https://github.com/alicia-here/ecommerce-automization.git)
 #### [📁Scraping스크래핑](https://github.com/alicia-here/ecommerce-automization/tree/main/Scraping%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91) 
 
 <!---
