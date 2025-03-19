@@ -6,7 +6,7 @@
 UX를 전공하고 현재는 데이터 분석가를 하고 있습니다. 데이터 뒤의 사람을 생각하며 분석을 합니다. 
 
 ## ✨Skill  
-<img src="https://github.com/user-attachments/assets/75567d85-e663-48ac-915b-11c6c5fb28ba" width="467" height="80"/>
+<img src="https://github.com/user-attachments/assets/75567d85-e663-48ac-915b-11c6c5fb28ba" width="460" height="80"/>
 
 ## 🌱 Currently Exploring ...
 - ETL Automization (Airflow)
