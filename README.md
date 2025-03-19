@@ -3,7 +3,7 @@
 ## Introduction 
 안녕하세요, Alicia Jung 입니다. 데이터로 사용자 경험을 설계하는 데이터 분석가입니다. 
 
-모바일 기반 앱 사용자 경험에 대한 깊은 이해로 구조적이고 논리적인 데이터 분석을 추구합니다.
+UX를 전공하고 현재는 데이터 분석가를 하고 있습니다. 데이터 뒤의 사람을 생각하며 분석을 합니다. 
 
 ## ✨Skill  
 <img src="https://github.com/user-attachments/assets/75567d85-e663-48ac-915b-11c6c5fb28ba" width="500" height="90"/>
