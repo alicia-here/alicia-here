@@ -9,7 +9,7 @@
 # Project
 (모든 프로젝트가 코드 업데이트 중에 있습니다.)
 ### 1. 플랫폼 이탈 및 위험시기 분석 프로젝트[🔗](https://github.com/alicia-here/platform-project.git)
-<img src="https://github.com/user-attachments/assets/8a6ef6c9-0ff7-45a8-a59d-96fa5f327b40" width="330" height="220"/>
+[<img src="https://github.com/user-attachments/assets/8a6ef6c9-0ff7-45a8-a59d-96fa5f327b40" width="330" height="220"/>](https://github.com/alicia-here/platform-project.git)
 
 ### 2. 프롭테크 프로모션 분석 프로젝트[🔗](https://github.com/alicia-here/proptech-promtion-project.git)
 <img src="https://github.com/user-attachments/assets/3127644c-eea9-4d5e-a1f8-d48ca780f22d" width="280" height="280"/>
