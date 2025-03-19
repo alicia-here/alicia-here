@@ -12,10 +12,10 @@
 [<img src="https://github.com/user-attachments/assets/8a6ef6c9-0ff7-45a8-a59d-96fa5f327b40" width="330" height="220"/>](https://github.com/alicia-here/platform-project.git)
 
 ### 2. 프롭테크 프로모션 분석 프로젝트[🔗](https://github.com/alicia-here/proptech-promtion-project.git)
-<img src="https://github.com/user-attachments/assets/3127644c-eea9-4d5e-a1f8-d48ca780f22d" width="280" height="280"/>
+[<img src="https://github.com/user-attachments/assets/3127644c-eea9-4d5e-a1f8-d48ca780f22d" width="280" height="280"/>](https://github.com/alicia-here/proptech-promtion-project.git)
 
 ### 3. 스트리밍 구독 서비스 이탈 분석 프로젝트[🔗](https://github.com/alicia-here/streaming-subsciption-project.git) 
-<img src="https://github.com/user-attachments/assets/f113ad60-247c-4002-a5a5-8902c5a51aaf" width="320" height="190"/>
+[<img src="https://github.com/user-attachments/assets/f113ad60-247c-4002-a5a5-8902c5a51aaf" width="320" height="190"/>](https://github.com/alicia-here/streaming-subsciption-project.git)
 
 ### 4. 업무 자동화[🔗](https://github.com/alicia-here/ecommerce-automization.git)
 #### [📁Scraping스크래핑](https://github.com/alicia-here/ecommerce-automization/tree/main/Scraping%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91) 
